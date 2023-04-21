@@ -14,8 +14,8 @@
 #### 1. Universitas Islam Indonesia | Bachelor of Informatics Engineering | Yogyakarta `2012`
    - Asistant Lecture of Computer Animation
    - Head of KKN unit 67
-#### 2. SMA Negeri 1 Banjarnegara | SOSs4 | Banjarnegara 
-   - Anggota Rohis (Rohaniah Islam)
+#### 2. SMA Negeri 1 Banjarnegara | SOS4 | Banjarnegara 
+   - Aktivis Rohis (Rohaniah Islam)
 
 ## Work Experience:
 #### 1. Fasilitator / Pendamping Proses Produk Halal | Fasilitator Halal Certified for for food and beverage products | Semarang `2022 - NOW`

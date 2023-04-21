@@ -17,7 +17,7 @@
 #### 2. SMA Negeri 1 Banjarnegara | Sos4 | Banjarnegara 
 
 ## Work Experience:
-#### 1. Fasilitator / Pendamping Proses Produk Halal | Fasilitator Halal Certified for for food and beverage products | Semarang `2022 - Now`
+#### 1. Fasilitator / Pendamping Proses Produk Halal | Fasilitator Halal Certified for for food and beverage products | Semarang `2022 - NOW`
       1. Socialization of halal certification education, to business actors (PU) in the food and beverage sector for MSEs (Micro and Small Enterprises).
       2. Provide assistance / facilitation for the halal product certification process.
       3. Checking MSEs of food and beverages related to the manufacturing process, product ingredients and also the location / place of the product manufacturing 
@@ -45,7 +45,7 @@
           - Conduct meetings for the making of SOPs, operational guidelines and technical guidelines for warehouse receipt system guarantees.
           - Conducted meetings for the creation of warehouse receipt system guarantee applications with futures clearing companies.
         
-#### 3. CV.Medina Sejahtera | IT Support | Yogyakarta `20012-2013`
+#### 3. CV.Medina Sejahtera | IT Support | Yogyakarta `2012-2013`
    - Perform maintenance Website.
    - monitoring of the stockbill product website.
    - Rebuild website Stockbill.

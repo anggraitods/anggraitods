@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate as IT Business, business analysis, business and development.
 - 🤔 I’m looking for suggest for Cloud, Database, Digital Marketing and Website Development.
 - 💬 Ask me about anything related to the development of the IT world.
-- 📫 How to reach me: anggraitods@gmail.com (main) or anggraitods@merahputih.id (problem now).
+- 📫 How to reach me: anggraitods@gmail.com (main).
 - 📄 Know about my experiences Still offline.
 - ⚡ Fun fact learn, joke, to be serious, focused, love to practice, and believe in myself.
 
